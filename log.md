@@ -24,7 +24,8 @@
 
 ### Day 24: January 24, 2021
 
-**Today's Progress**: Mail Merger project using 
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 24 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. I was cutting it close today but managed to finish the Mail Merger Project using <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a>. <a href="https://twitter.com/hashtag/100daysofcodechallenge?src=hash&amp;ref_src=twsrc%5Etfw">#100daysofcodechallenge</a> <a href="https://t.co/Ah02Rllcbf">https://t.co/Ah02Rllcbf</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1353565419844608001?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **Thoughts** I was cutting it kind of close, got done by midnight. But I think I understand the paths and the differences between absolute and relative paths. 
 
