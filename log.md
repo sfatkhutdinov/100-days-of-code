@@ -150,7 +150,7 @@
 **Thoughts** I am restoring the log so I don't remember my thoughts for this day. 
 
 **Link(s) to work**
-1. [blind-auction](day-9/blind-auction.py)
+1. [blind-auction](day-09/blind-auction.py)
 
 ### Day 8: January 8, 2021
 
@@ -159,7 +159,7 @@
 **Thoughts** I am restoring the log so I don't remember my thoughts for this day. 
 
 **Link(s) to work**
-1. [caesar-cipher](day-8/caesar-cipher.py)
+1. [caesar-cipher](day-08/caesar-cipher.py)
 ### Day 7: January 7, 2021
 
 **Today's Progress**: Wrote a simple game of Hangman
@@ -167,7 +167,7 @@
 **Thoughts** I am restoring the log so I don't remember my thoughts for this day. 
 
 **Link(s) to work**
-1. [hangman-game](day-7/hangman-game.py)
+1. [hangman-game](day-07/hangman-game.py)
 
 ### Day 6: January 6, 2021
 
@@ -176,7 +176,7 @@
 **Thoughts** I am restoring the log so I don't remember my thoughts for this day. 
 
 **Link(s) to work**
-1. [maze](day-6/maze.py)
+1. [maze](day-06/maze.py)
 
 ### Day 5: January 5, 2021
 
@@ -185,7 +185,7 @@
 **Thoughts** I am restoring the log so I don't remember my thoughts for this day. 
 
 **Link(s) to work**
-1. [password-generator](day-5/password-generator.py)
+1. [password-generator](day-05/password-generator.py)
 
 ### Day 4: January 4, 2021
 
@@ -194,7 +194,7 @@
 **Thoughts** I am restoring the log so I don't remember my thoughts for this day. 
 
 **Link(s) to work**
-1. [rock-paper-scissors](day-4/rock-paper-scissors.py)
+1. [rock-paper-scissors](day-04/rock-paper-scissors.py)
 
 ### Day 3: January 3, 2021
 
@@ -203,7 +203,7 @@
 **Thoughts** I am restoring the log so I don't remember my thoughts for this day. 
 
 **Link(s) to work**
-1. [treasure-island](day-3/treasure-island.py)
+1. [treasure-island](day-03/treasure-island.py)
 
 ### Day 2: January 2, 2021
 
@@ -212,7 +212,7 @@
 **Thoughts** I am restoring the log so I don't remember my thoughts for this day. 
 
 **Link(s) to work**
-1. [tip-calculator](day-2/tip-calculator.py)
+1. [tip-calculator](day-02/tip-calculator.py)
 
 ### Day 1: January 1, 2021
 
@@ -221,4 +221,4 @@
 **Thoughts** I am restoring the log so I don't remember my thoughts for this day.
 
 **Link(s) to work**
-1. [Band-Name-Generator](day-1/band-name-generator.py)
+1. [Band-Name-Generator](day-01/band-name-generator.py)
