@@ -1,13 +1,25 @@
 # 100 Days Of Code - Log
 
-<!-- ### Day 25: January 25, 2021
+<!-- ### Day {NUM}: {MONTH} {DAY}, {YEAR}
 
-**Today's Progress**: 
+**Today's Progress**: Day 25 of the #100DaysOfCode completed. Used #Python #pandas to work with data and made a simple educational game to learn the States. 
+ 
 
 **Thoughts** I am restoring the log so I don't remember my thoughts for this day. 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
+
+### Day 25: January 25, 2021
+
+**Today's Progress**: Used #Python #pandas to work with data and made a simple educational game to learn the States.
+
+**Thoughts** Today was a little challenging because I had to learn a new module and its documentation, but the benefits of using pandas seem to outweigh any growing pains. 
+
+**Link(s) to work**
+1. [us-states-game](day-25/us-states-game/us-states-game.py)
+2. [day-25-twitter-checkup](<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 25 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. Used <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> <a href="https://twitter.com/hashtag/pandas?src=hash&amp;ref_src=twsrc%5Etfw">#pandas</a> to work with data and made a simple educational game to learn the States. Thanks to <a href="https://twitter.com/yu_angela?ref_src=twsrc%5Etfw">@yu_angela</a> and <a href="https://twitter.com/LondonAppBrewer?ref_src=twsrc%5Etfw">@LondonAppBrewer</a> <br>Check out my code on <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a> at <a href="https://t.co/sJOsm4k1Kr">https://t.co/sJOsm4k1Kr</a>. <a href="https://t.co/xPumEMMwEX">pic.twitter.com/xPumEMMwEX</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1353807929363881984?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>)
+
 ### Day 24: January 24, 2021
 
 **Today's Progress**: Mail Merger project using 
