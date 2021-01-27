@@ -14,7 +14,7 @@
 **Today's Progress**: 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 27 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. Became familiar with <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> Tkinter module and made a simple GUI Miles to Kilometers Converter. <a href="https://twitter.com/hashtag/100daysofcodechallenge?src=hash&amp;ref_src=twsrc%5Etfw">#100daysofcodechallenge</a> <a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://twitter.com/hashtag/Progress?src=hash&amp;ref_src=twsrc%5Etfw">#Progress</a> <a href="https://twitter.com/hashtag/DEVCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#DEVCommunity</a> <a href="https://t.co/PjbJrR7u5M">pic.twitter.com/PjbJrR7u5M</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1354462551137001477?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote>
 
-**Thoughts** I'm not sure if I like the tkinter module. However, the *args and **kwargs functionality is great. 
+**Thoughts** I'm not sure if I like the tkinter module yet. However, the *args and **kwargs functionality is great. 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
