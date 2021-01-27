@@ -25,7 +25,7 @@ entry.grid(column=1, row=0)
 
 # Buttons
 def calculate():
-    user_input = int(entry.get())
+    user_input = float(entry.get())
     result = round(user_input * 1.609)
     result_label.config(text=result)
 
