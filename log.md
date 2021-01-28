@@ -9,6 +9,18 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
+
+### Day 28: January 28, 2021
+
+**Today's Progress**:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 28 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. Made a Pomodoro timer using the <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> Tkinter module. Thanks to <a href="https://twitter.com/yu_angela?ref_src=twsrc%5Etfw">@yu_angela</a> and <a href="https://twitter.com/LondonAppBrewer?ref_src=twsrc%5Etfw">@LondonAppBrewer</a> <a href="https://twitter.com/hashtag/Progress?src=hash&amp;ref_src=twsrc%5Etfw">#Progress</a> <a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://twitter.com/hashtag/code?src=hash&amp;ref_src=twsrc%5Etfw">#code</a> <a href="https://twitter.com/hashtag/DEVCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#DEVCommunity</a> <a href="https://t.co/Nx2QSFE8Zc">pic.twitter.com/Nx2QSFE8Zc</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1354846518138859528?ref_src=twsrc%5Etfw">January 28, 2021</a></blockquote>
+ 
+
+**Thoughts** I liked the today's project, and I think I'm getting warmed up towards Tkinter module. Although the lack of in-built documentation is not really helpful when learning this module. 
+
+**Link(s) to work**
+1. [pomodoro](day-28/pomodoro/pomodoro.py)
+
 ### Day 27: January 27, 2021
 
 **Today's Progress**: 
