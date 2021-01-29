@@ -10,6 +10,18 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 29: January 29, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 29 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. Made a password manager using <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> Tkinter and Random modules. List comprehension is an amazing tool to cut down on the code amount. Thanks, <a href="https://twitter.com/yu_angela?ref_src=twsrc%5Etfw">@yu_angela</a> and <a href="https://twitter.com/LondonAppBrewer?ref_src=twsrc%5Etfw">@LondonAppBrewer</a> <a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://twitter.com/hashtag/Progress?src=hash&amp;ref_src=twsrc%5Etfw">#Progress</a> <a href="https://twitter.com/hashtag/DEVCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#DEVCommunity</a> <a href="https://t.co/hdlGCb4HQs">pic.twitter.com/hdlGCb4HQs</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1355265131647795201?ref_src=twsrc%5Etfw">January 29, 2021</a></blockquote>
+
+**Thoughts** Tkinter gets more useful, but I still wouldn't call it my favorite. Although I realized how important and amazing the list comprehensions in Python really are.
+
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+
+
 ### Day 28: January 28, 2021
 
 **Today's Progress**:
