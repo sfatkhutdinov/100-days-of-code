@@ -13,7 +13,7 @@
 ### Day 30: January 30, 2021
 
 **Today's Progress**: 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 30 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> try/except blocks were a nice addition to my previous projects.</p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1355741401439481860?ref_src=twsrc%5Etfw">January 31, 2021</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 30 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> try/except blocks were a nice addition to my previous projects.</p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1355741401439481860?ref_src=twsrc%5Etfw">January 30, 2021</a></blockquote>
  
 
 **Thoughts** Today was kind of hard. I spent all day working on my uni projects and had to rush the challenge a little. I do like the try/except functionality of Python.
