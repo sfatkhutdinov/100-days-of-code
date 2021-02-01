@@ -10,6 +10,17 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 31: January 31, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 31 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. I made a <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> flashcard program to learn French with the help of <a href="https://twitter.com/yu_angela?ref_src=twsrc%5Etfw">@yu_angela</a> and <a href="https://twitter.com/LondonAppBrewer?ref_src=twsrc%5Etfw">@LondonAppBrewer</a>. The challenges are getting harder, but I think I&#39;m getting the language pretty well. <a href="https://t.co/RpQ6KzXXQC">pic.twitter.com/RpQ6KzXXQC</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1356028761498669059?ref_src=twsrc%5Etfw">January 31, 2021</a></blockquote>
+
+**Thoughts** The project were a little tedious due to Tkinter's quirks. I feel like the process of creating UI could be better.  
+
+**Link(s) to work**
+1. [flashcards](day-31/flash-card-project/flash_cards.py)
+
+
 ### Day 30: January 30, 2021
 
 **Today's Progress**: 
