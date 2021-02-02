@@ -10,6 +10,19 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 33: February 2, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 33 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. Used <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> requests module as well worked with APIs to make the ISS tracker and <a href="https://twitter.com/hashtag/kanye?src=hash&amp;ref_src=twsrc%5Etfw">#kanye</a> quote generator. Thanks to <a href="https://twitter.com/yu_angela?ref_src=twsrc%5Etfw">@yu_angela</a> and <a href="https://twitter.com/LondonAppBrewer?ref_src=twsrc%5Etfw">@LondonAppBrewer</a> <a href="https://twitter.com/hashtag/DEVCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#DEVCommunity</a> <a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://t.co/A8C6X36zdw">pic.twitter.com/A8C6X36zdw</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1356607974089850883?ref_src=twsrc%5Etfw">February 2, 2021</a></blockquote>
+ 
+
+**Thoughts** Working with APIs is fun. I like that I understand the flow of code more, and I begin to appreciate its beauty.  
+
+**Link(s) to work**
+1. [kanye-quotes](day-33/kanye-quotes/kanye_quotes.py)
+2. [iss-overhead](day-33/iss-overhead/iss_overhead.py)
+
+
 ### Day 32: February 1, 2021
 
 **Today's Progress**: 
