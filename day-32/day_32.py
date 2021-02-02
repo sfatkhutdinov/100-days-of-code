@@ -1,10 +1,11 @@
-#Monday Motivation Project
+# Monday Motivation Project
 import smtplib
 import datetime as dt
 import random
+from secrets import EMAIL, PASSWORD, SMTP
 
-MY_EMAIL = ""
-MY_PASSWORD = ""
+MY_EMAIL = EMAIL
+MY_PASSWORD = PASSWORD
 
 now = dt.datetime.now()
 weekday = now.weekday()
@@ -14,7 +15,7 @@ if weekday == 1:
         quote = random.choice(all_quotes)
 
     print(quote)
-    with smtplib.SMTP("smtp.gmail.com") as connection:
+    with smtplib.SMTP(SMTP) as connection:
         connection.starttls()
         connection.login(MY_EMAIL, MY_PASSWORD)
         connection.sendmail(
@@ -22,8 +23,6 @@ if weekday == 1:
             to_addrs=MY_EMAIL,
             msg=f"Subject:Monday Motivation\n\n{quote}"
         )
-
-
 
 ## Sending Email with Python
 # import smtplib

@@ -2,9 +2,10 @@ from datetime import datetime
 import pandas
 import random
 import smtplib
+from secrets import EMAIL, PASSWORD, SMTP
 
-MY_EMAIL = ""
-MY_PASSWORD = ""
+MY_EMAIL = EMAIL
+MY_PASSWORD = PASSWORD
 
 today = datetime.now()
 today_tuple = (today.month, today.day)
@@ -18,7 +19,7 @@ if today_tuple in birthdays_dict:
         contents = letter_file.read()
         contents = contents.replace("[NAME]", birthday_person["name"])
 
-    with smtplib.SMTP("YOUR EMAIL PROVIDER SMTP SERVER ADDRESS") as connection:
+    with smtplib.SMTP(SMTP) as connection:
         connection.starttls()
         connection.login(MY_EMAIL, MY_PASSWORD)
         connection.sendmail(
