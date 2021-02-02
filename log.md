@@ -10,6 +10,17 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 32: February 1, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 32 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. I learned about the <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> SMTPlib module that allows sending emails using nothing but code.</p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1356461632625537025?ref_src=twsrc%5Etfw">February 1, 2021</a></blockquote> 
+
+**Thoughts** I wasn't comfortable with this challenge today. I don't like creating emails with no purpose and don't want to provide my real email information through github. I did figure out how to .ignore my password in a separate file, but I still won't accept that potential risk. 
+
+**Link(s) to work**
+1. [birthday-wisher](day-32/birthday-wisher/birthday_wisher.py) 
+
+
 ### Day 31: January 31, 2021
 
 **Today's Progress**: 
