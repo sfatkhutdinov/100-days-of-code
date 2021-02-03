@@ -10,6 +10,18 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 34: February 3, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 34 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. I used the <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> Tkinter module to refine my QuizBrain game as well as the requests module to access quiz questions API. I think I&#39;m getting the hang of the OOP principles. <a href="https://t.co/7SbCQEmDaS">pic.twitter.com/7SbCQEmDaS</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1357044488833798144?ref_src=twsrc%5Etfw">February 3, 2021</a></blockquote> 
+ 
+
+**Thoughts** I like the today's challenge. The OOP principles were easy to understand, and the finished product looked very well. I still have some hangups with the Tkinter module, but I'm getting better at it every day.  
+
+**Link(s) to work**
+1. [quiz-brain-app-imporoved](day-34/quizzler-app/quizzler_app.py)
+
+
 ### Day 33: February 2, 2021
 
 **Today's Progress**: 
