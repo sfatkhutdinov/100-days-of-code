@@ -10,6 +10,17 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 35: February 4, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 35 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. Used <a href="https://twitter.com/OpenWeatherMap?ref_src=twsrc%5Etfw">@OpenWeatherMap</a> and <a href="https://twitter.com/twilio?ref_src=twsrc%5Etfw">@twilio</a> APIs with <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> to create a live alert SMS system in case of rain hosted on <a href="https://twitter.com/pythonanywhere?ref_src=twsrc%5Etfw">@pythonanywhere</a>. Thanks to <a href="https://twitter.com/yu_angela?ref_src=twsrc%5Etfw">@yu_angela</a> and <a href="https://twitter.com/LondonAppBrewer?ref_src=twsrc%5Etfw">@LondonAppBrewer</a> <a href="https://twitter.com/hashtag/DEVCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#DEVCommunity</a> <a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1357389577175113728?ref_src=twsrc%5Etfw">February 4, 2021</a></blockquote>
+
+**Thoughts** Using APIs and storing your code in the cloud is nice. I learned that I can store my secret variables in the environment and host everything online without any worries. The messaging with Twilio is quite nice, although I don't think I'll be using it very often.  
+
+**Link(s) to work**
+1. [rain-alert](day-35/rain_alert.py)
+
+
 ### Day 34: February 3, 2021
 
 **Today's Progress**: 
