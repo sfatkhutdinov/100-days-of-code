@@ -10,6 +10,18 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 36: February 5, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 36 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> complete. Practiced sending messages about stock tips using <a href="https://twitter.com/twilio?ref_src=twsrc%5Etfw">@twilio</a> API with <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a>. Thanks to <a href="https://twitter.com/yu_angela?ref_src=twsrc%5Etfw">@yu_angela</a> and <a href="https://twitter.com/LondonAppBrewer?ref_src=twsrc%5Etfw">@LondonAppBrewer</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1357852088949170176?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote>
+ 
+
+**Thoughts** I was doing more of the API practice and dictionary and list comprehension. Today I felt a little distracted, so I don't know how well I understood the lecture.
+
+**Link(s) to work**
+1. [stock-news](day-36/stock_news.py) 
+
+
 ### Day 35: February 4, 2021
 
 **Today's Progress**: 
