@@ -10,6 +10,18 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 37: February 6, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 37 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. Used <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> requests module to make a pixel habit tracker on <a href="https://t.co/CQfECDqs9X">https://t.co/CQfECDqs9X</a>. <a href="https://twitter.com/hashtag/programmer?src=hash&amp;ref_src=twsrc%5Etfw">#programmer</a> <a href="https://twitter.com/hashtag/DEVCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#DEVCommunity</a> <a href="https://twitter.com/hashtag/progress?src=hash&amp;ref_src=twsrc%5Etfw">#progress</a> <a href="https://t.co/jdnuKfDn5v">pic.twitter.com/jdnuKfDn5v</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1358214571203395584?ref_src=twsrc%5Etfw">February 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**Thoughts** Today seemed very easy. I like the fact that I'm getting more and more comfortable with API usage and Python in general. 
+
+**Link(s) to work**
+1. [pixel-habit-tracker](day-37/pixel_habit_tracker.py) 
+
+
+
 ### Day 36: February 5, 2021
 
 **Today's Progress**: 
