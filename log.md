@@ -13,7 +13,7 @@
 ### Day 38: February 7, 2021
 
 **Today's Progress**: 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 38 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> complete. I didn&#39;t really like today&#39;s assignment. <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> requests module is powerful to work with many APIs but I don&#39;t trust some of them to actually use them.</p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1358623718231203842?ref_src=twsrc%5Etfw">February 8, 2021</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 38 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> complete. I didn&#39;t really like today&#39;s assignment. <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> requests module is powerful to work with many APIs but I don&#39;t trust some of them to actually use them.</p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1358623718231203842?ref_src=twsrc%5Etfw">February 7, 2021</a></blockquote>
  
 
 **Thoughts** I didn't like today's exercise at all. I don't trust Sheety API enough to commit to doing this problem
