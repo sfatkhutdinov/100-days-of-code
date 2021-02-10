@@ -14,7 +14,7 @@ def createFolder(directory):
 #     with open(f'./day-{day}/day_{day}.py', 'w') as file:
 #         pass       
 
-day = 39  # TODO: Change the date
+day = 40  # TODO: Change the date
 createFolder(f'./day-{day}/')
 with open(f'./day-{day}/day_{day}.py', 'w') as file:
     pass
