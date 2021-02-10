@@ -10,6 +10,17 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 40: February 9, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 40 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> completed. I refuse to use Sheety API, but other than that <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> is great.</p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1359354886115254280?ref_src=twsrc%5Etfw">February 9, 2021</a></blockquote>
+ 
+
+**Thoughts** I don't like Sheety API and refuse to use it because I have to provide my own email since I don't like signing up for useless email. It's a great concept but google has enough of my information, I don't want to provide any more than I already have.
+
+**Link(s) to work**
+1. [flight-club](day-40/flight-club/flight_club.py) 
+
 ### Day 39: February 8, 2021
 
 **Today's Progress**: 
