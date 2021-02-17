@@ -10,6 +10,18 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 41: February 16, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 41 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> complete. I&#39;m still recovering from <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>, so I had to take a little break from the challenge. But today, I refreshed myself on some <a href="https://twitter.com/hashtag/HTML?src=hash&amp;ref_src=twsrc%5Etfw">#HTML</a> and <a href="https://twitter.com/hashtag/webdevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#webdevelopment</a> basics.</p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1361879982587469825?ref_src=twsrc%5Etfw">February 16, 2021</a></blockquote> 
+ 
+
+**Thoughts** I had COVID for the past week or so and had to take a break from the challenge, but it is nice to come back to coding especially with something as easy as HTML.
+
+**Link(s) to work**
+1. [personal-site](day-41/01%20HTML%20-%20Personal%20Site/index.html)
+
+
 ### Day 40: February 9, 2021
 
 **Today's Progress**: 
