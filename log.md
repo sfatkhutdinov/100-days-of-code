@@ -10,6 +10,17 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 42: February 24, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 42 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> complete. I&#39;m still recovering from COVID, so I&#39;m a little behind on the challenge, but I&#39;m pushing through. I&#39;m hosting my personal webpage on GitHub.</p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1364744526653513730?ref_src=twsrc%5Etfw">February 24, 2021</a></blockquote>
+ 
+
+**Thoughts** I'm still recovering from COVID-19, so I'm taking it easy right now.
+
+**Link(s) to work**
+1. [personal-site](day-41/01%20HTML%20-%20Personal%20Site/index.html) 
+
 ### Day 41: February 16, 2021
 
 **Today's Progress**: 
