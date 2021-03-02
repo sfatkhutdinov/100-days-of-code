@@ -10,6 +10,24 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 44: March 2, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 44 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> complete. Finished <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a> fundamentals with <a href="https://twitter.com/yu_angela?ref_src=twsrc%5Etfw">@yu_angela</a> and <a href="https://twitter.com/LondonAppBrewer?ref_src=twsrc%5Etfw">@LondonAppBrewer</a>.</p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1366843978461687812?ref_src=twsrc%5Etfw">March 2, 2021</a></blockquote>
+ 
+
+**Thoughts** Finished the CSS fundamentals.  
+
+
+### Day 43: March 1, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 43 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> complete. Styled my webpage with CSS. Thanks <a href="https://twitter.com/yu_angela?ref_src=twsrc%5Etfw">@yu_angela</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1366458499119603713?ref_src=twsrc%5Etfw">March 1, 2021</a></blockquote>
+ 
+
+**Thoughts** Already did some styling to my webpage 
+
+
 ### Day 42: February 24, 2021
 
 **Today's Progress**: 
