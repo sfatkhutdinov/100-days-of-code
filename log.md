@@ -18,7 +18,7 @@
 **Thoughts** Today was kind of a bust. I did everything related to scraping, but I refuse to create random accounts on Spotify or any other platform for no particular reason.  
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [100-hottest-songs](day-46/day_46.py)
 
 ### Day 45: March 3, 2021
 
