@@ -10,6 +10,19 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+
+### Day 45: March 3, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 45 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> complete. Used <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> to scrape the web and compile the 100 best movies to watch using the <a href="https://twitter.com/hashtag/BeautifulSoup?src=hash&amp;ref_src=twsrc%5Etfw">#BeautifulSoup</a> module. Thanks <a href="https://twitter.com/yu_angela?ref_src=twsrc%5Etfw">@yu_angela</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1367342854146838529?ref_src=twsrc%5Etfw">March 3, 2021</a></blockquote>
+ 
+
+**Thoughts** Great day figuring out the beautiful soup module. I feel accomplished.
+
+**Link(s) to work**
+1. [movie-scraper](day-45/movie_scraper/movie_scraper.py) 
+2. [great-movies](day-45/movie_scraper/great_movies)
+
 ### Day 44: March 2, 2021
 
 **Today's Progress**: 
