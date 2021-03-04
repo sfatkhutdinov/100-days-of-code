@@ -10,6 +10,15 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 46: March 4, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 46 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> complete. Today was kind of a bust. I did everything related to <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> scraping, but I refuse to create random accounts on <a href="https://twitter.com/Spotify?ref_src=twsrc%5Etfw">@Spotify</a> or any other platform for no particular reason.</p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1367481032644169733?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote>
+
+**Thoughts** Today was kind of a bust. I did everything related to scraping, but I refuse to create random accounts on Spotify or any other platform for no particular reason.  
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
 ### Day 45: March 3, 2021
 
