@@ -10,6 +10,18 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 
+### Day 47: March 6, 2021
+
+**Today's Progress**: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 47 of the <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> complete. Used <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> BeautifulSoup and smtplib modules to send out an alert email if the price of the item I want on Amazon drops below a certain level. Thanks, <a href="https://twitter.com/yu_angela?ref_src=twsrc%5Etfw">@yu_angela</a>, and <a href="https://twitter.com/LondonAppBrewer?ref_src=twsrc%5Etfw">@LondonAppBrewer</a></p>&mdash; Stanislav Fatkhutdinov (@SFatkhutdinov) <a href="https://twitter.com/SFatkhutdinov/status/1368229651458490371?ref_src=twsrc%5Etfw">March 6, 2021</a></blockquote> 
+ 
+
+**Thoughts** I feel pretty good about my progress so far. Python has a great flexibility that I enjoy very much.
+
+**Link(s) to work**
+1. [amazon-price-alert](day-47/price_alert.py)
+
+
 ### Day 46: March 4, 2021
 
 **Today's Progress**: 
